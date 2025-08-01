@@ -14,7 +14,7 @@ A responsive web application for browsing and viewing details of mobile phones, 
 
 # 🔗 Live Demo
 
-[DEMO LINK](https://yuliia-fil.github.io/)
+[DEMO LINK](https://yuliia-fil.github.io/Nice-Gadgets-store)
 
 # Design reference
 
